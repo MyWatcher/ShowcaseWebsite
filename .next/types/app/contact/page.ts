@@ -1,4 +1,4 @@
-// File: /home/b4chh/Desktop/epitech/tek4-5/eip/loadingpage/app/contact/page.tsx
+// File: /Users/pad/delivery/EIP/ShowcaseWebsite/app/contact/page.tsx
 import * as entry from '../../../../app/contact/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
