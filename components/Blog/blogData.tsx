@@ -4,12 +4,12 @@ const blogData: Team[] = [
   {
     id: 1,
     name: "Pierre-Alexandre DELGADO-AREVALO",
-    role: "Lead Developer Front-end - chef de projet"
+    role: "Lead Front-end Developer - chef de projet"
   },
   {
     id: 2,
     name: "Wassini BOUZIDI",
-    role: "Lead developer back-end"
+    role: "Lead Back-end developer"
   },
   {
     id: 3,
