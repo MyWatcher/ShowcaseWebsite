@@ -15,9 +15,9 @@ const Contact = () => {
                 Email de contact
               </h2>
               <p className="mb-12 text-base font-medium text-body-color">
-              
-                
-                owl-team@gmail.com
+
+
+                owl_2025@labeip.epitech.eu
               </p>
             </div>
           </div>

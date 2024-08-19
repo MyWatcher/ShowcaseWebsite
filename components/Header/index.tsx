@@ -155,6 +155,16 @@ const Header = () => {
                         )}
                       </li>
                     ))}
+                    <li  className="group relative">
+                      <Link
+                        href={"/owl.apk"}
+                        className={`flex py-2 text-base lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 ${
+                                "text-dark hover:text-primary dark:text-white/70 dark:hover:text-white"
+                        }`}
+                      >
+                        download
+                      </Link>
+                    </li>
                   </ul>
                 </nav>
               </div>
