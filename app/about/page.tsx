@@ -13,7 +13,7 @@ const AboutPage = () => {
     <>
       <Breadcrumb
         pageName="About Page"
-        description="MyWatcher surveille l'état du conducteur en utilisant une montre connectée et un téléphone. Si ces appareils détectent un état de somnolence ou estiment que l'utilisateur risque de s'assoupir, ils lui signalent et lui recommandent de faire une pause pour éviter tout danger d'accident."
+        description="OWL surveille l'état du conducteur en utilisant une montre connectée et un téléphone. Si ces appareils détectent un état de somnolence ou estiment que l'utilisateur risque de s'assoupir, ils lui signalent et lui recommandent de faire une pause pour éviter tout danger d'accident."
       />
       <AboutSectionOne />
     </>

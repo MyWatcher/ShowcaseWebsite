@@ -14,7 +14,7 @@ const featuresData: Feature[] = [
     ),
     title: "Détection avancée de la somnolence",
     paragraph:
-      "MyWatcher va au-delà de la simple détection en utilisant des capteurs avancés pour mesurer le rythme cardiaque, la saturation en oxygène et les mouvements oculaires, permettant ainsi une détection précoce et précise de la somnolence.",
+      "OWL va au-delà de la simple détection en utilisant des capteurs avancés pour mesurer le rythme cardiaque, permettant ainsi une détection précoce et précise de la somnolence.",
   },
   {
     id: 1,
@@ -29,7 +29,7 @@ const featuresData: Feature[] = [
     ),
     title: "Prévision intelligente des états de somnolence",
     paragraph:
-      "Grâce à des algorithmes avancés, MyWatcher anticipe les moments où le conducteur risque de s'endormir, en prenant en compte des données personnalisées et des tendances individuelles, offrant ainsi une prévision fiable et précise.",
+      "Grâce à des algorithmes avancés, OWL anticipe les moments où le conducteur risque de s'endormir, en prenant en compte des données personnalisées et des tendances individuelles, offrant ainsi une prévision fiable et précise.",
   },
   {
     id: 1,
@@ -44,7 +44,7 @@ const featuresData: Feature[] = [
     ),
     title: "Réactions personnalisées et conseils proactifs",
     paragraph:
-      "MyWatcher offre des options de personnalisation pour les réactions en cas de détection de la somnolence, telles que des vibrations, des signaux sonores ou des suggestions de pause. De plus, l'application fournit des conseils proactifs pour aider les conducteurs à rester éveillés et alertes.",
+      "OWL offre des options de personnalisation pour les réactions en cas de détection de la somnolence, telles que des vibrations, des signaux sonores ou des suggestions de pause. De plus, l'application fournit des conseils proactifs pour aider les conducteurs à rester éveillés et alertes.",
   },
   {
     id: 1,
@@ -59,7 +59,7 @@ const featuresData: Feature[] = [
     ),
     title: "Intégration transparente et conviviale",
     paragraph:
-      "MyWatcher s'intègre parfaitement à votre quotidien, que vous soyez un conducteur professionnel, un utilisateur régulier ou une personne atteinte de narcolepsie. Avec une interface conviviale et une expérience utilisateur optimisée, MyWatcher garantit une utilisation simple et intuitive.",
+      "OWL s'intègre parfaitement à votre quotidien, que vous soyez un conducteur professionnel, un utilisateur régulier ou une personne atteinte de narcolepsie. Avec une interface conviviale et une expérience utilisateur optimisée, OWL garantit une utilisation simple et intuitive.",
   }
 ];
 export default featuresData;

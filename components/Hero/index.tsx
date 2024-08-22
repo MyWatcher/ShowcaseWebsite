@@ -15,10 +15,10 @@ const Hero = () => {
                 data-wow-delay=".2s"
               >
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                MyWatcher 
+                OWL
                 </h1>
                 <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl">
-                  {"MyWatcher permet de surveiller l'état d'un conducteur à l'aide d'une montre connectée et de son téléphone. Si la montre et le téléphone détecte un état de somnolence, ou que l'utilisateur risque de somnoler, elle le lui signalera et lui"}
+                  {"OWL permet de surveiller l'état d'un conducteur à l'aide d'une montre connectée et de son téléphone. Si la montre et le téléphone détecte un état de somnolence, ou que l'utilisateur risque de somnoler, elle le lui signalera et lui"}
                   {"conseillera de s'arrêter afin de prévenir tout risque d'accident."}
                 </p>
               </div>
